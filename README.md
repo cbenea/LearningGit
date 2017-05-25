@@ -6,15 +6,7 @@
 
 
 
-##	Overview
 
-	This is a guide on how to:
-1.	Create a customer record in T24 environment 
-2.	Open current and savings accounts
-3.	Create and authorize an account transaction through FT (Funds Transfer) application 
-4.	Accustom with Teller module 
-5.	Create External User to provide customer access on TCMB (Temenos Connect Mobile Banking) and TCIB (Temenos Connect Internet Banking) applications 
- 
 
 ##	Create a customer
  Purpose of customer record: 
@@ -32,17 +24,19 @@ Insert your **Username** and **Password** for T24 sign in
  
  	Fill in basic customer details 
 
-Under User Menu click Customer, then Individual Customer
+Under **User Menu** click **Customer**, then **Individual Customer**
 
  ![alt text](https://github.com/cbenea/LearningGit/blob/master/image/3.png)
  
 
-	Following screen is open and a Customer Id (sequential number) is automatically generated (e. g. 190359):
+	Following screen is open and a **Customer Id** (sequential number) is automatically generated (e. g. 190359):
 
- 
+ ![alt text](https://github.com/cbenea/LearningGit/blob/master/image/4.png)
  
+ 	All available buttons, tags, signs or icons have a help information for better guidance when passing mouse over an element
+ 	Mandatory fields are marked with asterisk. Some fields are expandable and some have drop down option so the value can be chosen from a pre-defined list
 
-
+![alt text](https://github.com/cbenea/LearningGit/blob/master/image/5.png)
 	
 
 
@@ -55,7 +49,7 @@ Under User Menu click Customer, then Individual Customer
 
  
 
-Input the customer’s personal details:
+**Input the customer’s personal details:**
 
 
 
@@ -66,93 +60,120 @@ Input the customer’s personal details:
 
  	Physical Address:
  
-
+![alt text](https://github.com/cbenea/LearningGit/blob/master/image/6.png)
 
  
 
 
  	ID Doc:
- 
+![alt text](https://github.com/cbenea/LearningGit/blob/master/image/7.png) 
 
  	Relation:
- 
+ ![alt text](https://github.com/cbenea/LearningGit/blob/master/image/8.png)
 
  	Further Details:
  
-
+![alt text](https://github.com/cbenea/LearningGit/blob/master/image/9.png)
  
  	Financial Details:
- 
+ ![alt text](https://github.com/cbenea/LearningGit/blob/master/image/10.png)
 
  	Residential Details:
- 
+ ![alt text](https://github.com/cbenea/LearningGit/blob/master/image/11.png)
 
  	Communication Details:
- 
+ ![alt text](https://github.com/cbenea/LearningGit/blob/master/image/12.png)
 
  	KYC (Know Your Customer):
 	 
- 
+![alt text](https://github.com/cbenea/LearningGit/blob/master/image/13.png) 
 
  	Other Details:
  
+![alt text](https://github.com/cbenea/LearningGit/blob/master/image/14.png) 
+ 	
+	Reporting Details: 
+![alt text](https://github.com/cbenea/LearningGit/blob/master/image/15.png)  
 
- 	Reporting Details: 
+	After filling one of the tag-screens, **validate** button can be used to check the information’s accuracy:
  
-
-	After filling one of the tag-screens, validate button can be used to check the information’s accuracy:
- 
-
+![alt text](https://github.com/cbenea/LearningGit/blob/master/image/16.png) 
+	
 	And then commit a deal (submitting for authorization): 
  
-
+![alt text](https://github.com/cbenea/LearningGit/blob/master/image/17.png) 
  
+	
 	After this step, a notification regarding client’s documents will pop-up:
  
 
+![alt text](https://github.com/cbenea/LearningGit/blob/master/image/18.png) 
 
 	Submit again. Transaction is complete:
  
  
+![alt text](https://github.com/cbenea/LearningGit/blob/master/image/19.png) 
 
-2.1	Authorize and search created customer
+
+	# Authorize and search created customer 
+	
+
 
 	A second user (supervisor) with additional rights has to authorize this transaction. Until then, the newly created customer can be checked into the unauthorized files list (List Unauth File).
  
-
+![alt text](https://github.com/cbenea/LearningGit/blob/master/image/20.png)
  
+![alt text](https://github.com/cbenea/LearningGit/blob/master/image/21.png)
 
 Authorize created customer:
 
- 	Log in with different user (with additional rights) and password:
+ 	
+Log in with different **user** (with additional rights) and **password**:
  
+![alt text](https://github.com/cbenea/LearningGit/blob/master/image/22.png)
 
- 	Under User Menu click Customer, then Authorise/Delete Customer
  
- 	Search option – use Selection Screen button: 
+ Under **User Menu** click **Customer**, then **Authorise/Delete Customer**
  
+ ![alt text](https://github.com/cbenea/LearningGit/blob/master/image/23.png)
+ 
+ 	
+Search option – use **Selection Screen** button: 
+ 
+ ![alt text](https://github.com/cbenea/LearningGit/blob/master/image/24.png)
  
- 	Search customer by ID, name, short name, mnemonic etc:
+ 	
+Search customer by ID, name, short name, mnemonic etc:
+ 
+ ![alt text](https://github.com/cbenea/LearningGit/blob/master/image/25.png)
+ 
+ ![alt text](https://github.com/cbenea/LearningGit/blob/master/image/26.png)
  
  
- 	And authorize it through commit button.  
+ And authorize it through **commit** button 
  
- 	Original details screen will pop-up in order to check the input information. 
+ 	
+Original details screen will pop-up in order to check the input information. 
  
+![alt text](https://github.com/cbenea/LearningGit/blob/master/image/27.png) 
  
- 	Authorize the deal:
- 
- 
- 	Transaction is complete:
- 
 
+Authorize the deal:
+ 
+ ![alt text](https://github.com/cbenea/LearningGit/blob/master/image/28.png) 
+ 
+ 	
+Transaction is complete:
+ 
+![alt text](https://github.com/cbenea/LearningGit/blob/master/image/29.png) 
 
-3	Open accounts 
-3.1	Open a current account
+# Open accounts #
+## Open a current account ##
 	
-	Under User Menu click Account, then Open Current Account
+	
+Under **User Menu** click **Account**, then **Open Current Account**
  
-
+![alt text](https://github.com/cbenea/LearningGit/blob/master/image/30.png) 
 
  	An account number is automatically generated:
  
