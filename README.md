@@ -6,32 +6,41 @@
 
 
 
+#### This is a guide on how to: ####
++	Create a customer record in T24 environment 
++	Open current and savings accounts
++	Create and authorize an account transaction through FT (Funds Transfer) application 
++	Accustom with Teller module 
++	Create External User to provide customer access on TCMB (Temenos Connect Mobile Banking) and TCIB (Temenos Connect Internet Banking) applications 
+
+
+
 
 
 ##	Create a customer
- Purpose of customer record: 
- 	Customer record holds all the basic information about a Customer. 
+#### Purpose of customer record: 
+ Customer record holds all the basic information about a Customer. 
  	Ideally only one Customer record should exist for each Customer.  This can be created whenever a name, address and other such essential information is obtained and is not dependent on the existence of an account. 
  	In T24, creating a Customer record need not wait till we are ready to open an account or till we propose to have a business transaction. 
  	For example, a Customer record can be set up even when a Bank is considering having any relationship with. Later, when it decides to enter into any contractual obligation, like Foreign exchange or Money Market dealings, it can use the Customer record already created. If at any later stage, the Bank proposed to open a current account, it need not create another record for the Customer. It can as well use information already stored.
  	Once a customer record is authorised, it is not possible to reverse the record. We can however amend any details as and when needed
 
- 	Login
+ #### Login
 
 Insert your **Username** and **Password** for T24 sign in
 
-
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/2.png" width="300" height="150">
  
- 	Fill in basic customer details 
+#### Fill in basic customer details 
 
 Under **User Menu** click **Customer**, then **Individual Customer**
 
- ![alt text](https://github.com/cbenea/LearningGit/blob/master/image/3.png)
+ <img src="https://github.com/cbenea/LearningGit/blob/master/image/3.png" width="380" height="650">
  
 
 	Following screen is open and a **Customer Id** (sequential number) is automatically generated (e. g. 190359):
 
- ![alt text](https://github.com/cbenea/LearningGit/blob/master/image/4.png)
+ <img src="https://github.com/cbenea/LearningGit/blob/master/image/4.png" width="600" height="600">
  
  	All available buttons, tags, signs or icons have a help information for better guidance when passing mouse over an element
  	Mandatory fields are marked with asterisk. Some fields are expandable and some have drop down option so the value can be chosen from a pre-defined list
@@ -62,7 +71,7 @@ Under **User Menu** click **Customer**, then **Individual Customer**
  
 ![alt text](https://github.com/cbenea/LearningGit/blob/master/image/6.png)
 
- 
+ <a href="url"><img src=https://github.com/cbenea/LearningGit/blob/master/image/6.png align="left" height="500" width="800" ></a>
 
 
  	ID Doc:
@@ -167,8 +176,8 @@ Transaction is complete:
  
 ![alt text](https://github.com/cbenea/LearningGit/blob/master/image/29.png) 
 
-# Open accounts #
-## Open a current account ##
+## Open accounts ##
+### Open a current account ###
 	
 	
 Under **User Menu** click **Account**, then **Open Current Account**
@@ -288,7 +297,7 @@ Under **User Menu** click **Account**, then **Open Current Account**
 	Transaction is complete:
  
  
-5	Cash deposit through Teller
+## Cash deposit through Teller ##
 
  
 	Under User Menu click Retail Operations, then Account Transactions – Teller – Teller Operations – Teller Cash – Cash deposit Local
