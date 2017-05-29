@@ -35,15 +35,21 @@ Insert your **Username** and **Password** for T24 sign in
 
 Under **User Menu** click **Customer**, then **Individual Customer**
 
- <img src="https://github.com/cbenea/LearningGit/blob/master/image/3.png" width="380" height="650">
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/3.png" width="380" height="650">
  
 
-	Following screen is open and a **Customer Id** (sequential number) is automatically generated (e. g. 190359):
+Following screen is open and a **Customer Id** (sequential number) is automatically generated (e. g. 190359):
 
- <img src="https://github.com/cbenea/LearningGit/blob/master/image/4.png" width="600" height="600">
+ 
+
+
  
- 	All available buttons, tags, signs or icons have a help information for better guidance when passing mouse over an element
- 	Mandatory fields are marked with asterisk. Some fields are expandable and some have drop down option so the value can be chosen from a pre-defined list
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/4.png" width="550" height="500">
+
+
+`All available buttons, tags, signs or icons have a help information for better guidance when passing mouse over an element.
+Mandatory fields are marked with asterisk. Some fields are expandable and some have drop down option so the value can be chosen from a pre-defined list`
+
 
 ![alt text](https://github.com/cbenea/LearningGit/blob/master/image/5.png)
 	
@@ -58,9 +64,9 @@ Under **User Menu** click **Customer**, then **Individual Customer**
 
  
 
-**Input the customer’s personal details:**
+Input the customer’s personal details:
 
-
+`Details in Customer record are descriptive in nature and not financial. For example, it holds the occupation, residence and contact details of a Customer. It will not hold the account numbers or balances in those accounts of a Customer.`
 
 
 
@@ -69,46 +75,61 @@ Under **User Menu** click **Customer**, then **Individual Customer**
 
  	Physical Address:
  
-![alt text](https://github.com/cbenea/LearningGit/blob/master/image/6.png)
 
- <a href="url"><img src=https://github.com/cbenea/LearningGit/blob/master/image/6.png align="left" height="500" width="800" ></a>
 
+ 
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/6.png" width="700" height="500">
 
  	ID Doc:
+	
 ![alt text](https://github.com/cbenea/LearningGit/blob/master/image/7.png) 
 
  	Relation:
- ![alt text](https://github.com/cbenea/LearningGit/blob/master/image/8.png)
 
- 	Further Details:
+![alt text](https://github.com/cbenea/LearningGit/blob/master/image/8.png)
+
+ 	
+	Further Details:
  
-![alt text](https://github.com/cbenea/LearningGit/blob/master/image/9.png)
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/9.png" width="600" height="350">
  
- 	Financial Details:
- ![alt text](https://github.com/cbenea/LearningGit/blob/master/image/10.png)
+ 	
+	Financial Details:
 
- 	Residential Details:
- ![alt text](https://github.com/cbenea/LearningGit/blob/master/image/11.png)
+![alt text](https://github.com/cbenea/LearningGit/blob/master/image/10.png)
 
- 	Communication Details:
- ![alt text](https://github.com/cbenea/LearningGit/blob/master/image/12.png)
+ 	
+	Residential Details:
+	
+![alt text](https://github.com/cbenea/LearningGit/blob/master/image/11.png)
 
- 	KYC (Know Your Customer):
+ 	
+	Communication Details:
+	
+![alt text](https://github.com/cbenea/LearningGit/blob/master/image/12.png)
+
+ 	
+	KYC (Know Your Customer):
 	 
 ![alt text](https://github.com/cbenea/LearningGit/blob/master/image/13.png) 
 
- 	Other Details:
+ 	
+	Other Details:
  
 ![alt text](https://github.com/cbenea/LearningGit/blob/master/image/14.png) 
  	
+	
 	Reporting Details: 
+
 ![alt text](https://github.com/cbenea/LearningGit/blob/master/image/15.png)  
 
-	After filling one of the tag-screens, **validate** button can be used to check the information’s accuracy:
+	
+After filling one of the tag-screens, **validate** button can be used to check the information’s accuracy:
  
 ![alt text](https://github.com/cbenea/LearningGit/blob/master/image/16.png) 
 	
-	And then commit a deal (submitting for authorization): 
+	
+And then **commit** a deal (submitting for authorization): 
  
 ![alt text](https://github.com/cbenea/LearningGit/blob/master/image/17.png) 
  
@@ -116,125 +137,176 @@ Under **User Menu** click **Customer**, then **Individual Customer**
 	After this step, a notification regarding client’s documents will pop-up:
  
 
-![alt text](https://github.com/cbenea/LearningGit/blob/master/image/18.png) 
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/18.png" width="700" height="450">
 
-	Submit again. Transaction is complete:
+	
+Submit again. Transaction is complete:
  
  
-![alt text](https://github.com/cbenea/LearningGit/blob/master/image/19.png) 
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/19.png" width="300" height="100"> 
 
 
-	# Authorize and search created customer 
+## Authorize and search created customer 
 	
 
 
-	A second user (supervisor) with additional rights has to authorize this transaction. Until then, the newly created customer can be checked into the unauthorized files list (List Unauth File).
+A second user (supervisor) with additional rights has to authorize this transaction. Until then, the newly created customer can be checked into the unauthorized files list (**List Unauth File**).
  
-![alt text](https://github.com/cbenea/LearningGit/blob/master/image/20.png)
- 
-![alt text](https://github.com/cbenea/LearningGit/blob/master/image/21.png)
 
-Authorize created customer:
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/20.png" width="650" height="400">
+ 
+
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/21.png" width="500" height="440">
+
+
+## Authorize created customer:
 
  	
 Log in with different **user** (with additional rights) and **password**:
  
-![alt text](https://github.com/cbenea/LearningGit/blob/master/image/22.png)
+
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/22.png" width="350" height="180">
 
  
- Under **User Menu** click **Customer**, then **Authorise/Delete Customer**
+Under **User Menu** click **Customer**, then **Authorise/Delete Customer**
  
- ![alt text](https://github.com/cbenea/LearningGit/blob/master/image/23.png)
+
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/23.png" width="280" height="380">
  
  	
 Search option – use **Selection Screen** button: 
  
- ![alt text](https://github.com/cbenea/LearningGit/blob/master/image/24.png)
+![alt text](https://github.com/cbenea/LearningGit/blob/master/image/24.png)
  
  	
 Search customer by ID, name, short name, mnemonic etc:
  
- ![alt text](https://github.com/cbenea/LearningGit/blob/master/image/25.png)
+![alt text](https://github.com/cbenea/LearningGit/blob/master/image/25.png)
  
- ![alt text](https://github.com/cbenea/LearningGit/blob/master/image/26.png)
+
+![alt text](https://github.com/cbenea/LearningGit/blob/master/image/26.png)
  
  
- And authorize it through **commit** button 
+And authorize it through **commit** button 
  
  	
-Original details screen will pop-up in order to check the input information. 
- 
-![alt text](https://github.com/cbenea/LearningGit/blob/master/image/27.png) 
+Original details screen will pop-up in order to check the input information:
+
+
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/28.png" width="600" height="530">
  
 
 Authorize the deal:
  
- ![alt text](https://github.com/cbenea/LearningGit/blob/master/image/28.png) 
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/29.png" width="600" height="530"> 
  
- 	
+
 Transaction is complete:
  
-![alt text](https://github.com/cbenea/LearningGit/blob/master/image/29.png) 
+
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/30.png" width="400" height="230">
+
+
 
 ## Open accounts ##
+
 ### Open a current account ###
 	
 	
+
+
 Under **User Menu** click **Account**, then **Open Current Account**
- 
-![alt text](https://github.com/cbenea/LearningGit/blob/master/image/30.png) 
 
- 	An account number is automatically generated:
- 
+
+
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/31.png" width="280" height="380"> 
+
+ 	
+An account number is automatically generated:
+
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/32.png" width="600" height="380">
  
- 	Complete details and commit:
- 
- 	Transaction is complete:
- 
 
-3.1.1	Authorize and search created account
+Complete details and commit:
+ 
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/33.png" width="600" height="480">
+ 
+Transaction is complete:
 
-	A second user (supervisor) with additional rights has to authorize this transaction. Until then, the newly created customer can be checked into the unauthorized files list (List Unauth File).
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/34.png" width="300" height="130">
+
+
+
+
+### Authorize and search created account ###
+
+A second user (supervisor) with additional rights has to authorize this transaction. Until then, the newly created customer can be checked into the unauthorized files list (**List Unauth File**).
  
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/35.png" width="400" height="400">
+
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/36.png" width="550" height="500">
+
 
  
- 	Click Account Id and then the key button:
+Click **Account Id** and then the key button:
  
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/37.png" width="350" height="100">
+
  
- 	And authorize the record:
+And authorize the record:
+
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/38.png" width="550" height="300">
  
- 	Now search created account:
 
-•	Under User Menu click Account, then Open Current Account. 
-•	Under MoreActions scroll down for List Live File, click and press Go:   
+Now search created account:
 
-•	This action will load all accounts database results.
+•	Under **User Menu** click **Account**, then **Open Current Account**. 
+•	+ Under **MoreActions** scroll down for **List Live File**, click and press **Go**:   
 
- 
+This action will load all accounts database results.
+
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/39.png" width="540" height="500">
+
  
- 	Go to Selection Screen button  
+Go to **Selection Screen** button  
 
- 	Input the account number and click Find:
+Input the account number and click **Find**:
+
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/40.png" width="400" height="210">
+
+Result:
+
+![alt text](https://github.com/cbenea/LearningGit/blob/master/image/41.png)
  
- 	Result:
- 
 
-3.2	Open a savings account
+# Open a savings account #
 
-	Under User Menu click Account, then Open Savings Account
 
- 
+Under **User Menu** click **Account**, then **Open Savings Account**
+
+
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/42.png" width="300" height="500">
+
+
  
-	An account number is automatically generated:
- 
-	Complete details and commit:
- 
-	Transaction is complete:
+An account number is automatically generated:
+
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/43.png" width="700" height="410">
  
 
-3.2.1	Authorize and search created account
+Complete details and commit:
 
-	A second user (supervisor) with additional rights has to authorize this transaction. Until then, the newly created account can be checked into the unauthorized files list (List Unauth File).
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/44.png" width="400" height="210">
+ 
+
+Transaction is complete:
+
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/45.png" width="350" height="130">
+ 
+
+# Authorize and search created account #
+
+A second user (supervisor) with additional rights has to authorize this transaction. Until then, the newly created account can be checked into the unauthorized files list (List Unauth File).
  
 
  
