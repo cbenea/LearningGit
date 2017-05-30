@@ -7,17 +7,17 @@
 
 
 #### This is a guide on how to: ####
-+	Create a customer record in T24 environment 
-+	Open current and savings accounts
-+	Create and authorize an account transaction through FT (Funds Transfer) application 
-+	Accustom with Teller module 
-+	Create External User to provide customer access on TCMB (Temenos Connect Mobile Banking) and TCIB (Temenos Connect Internet Banking) applications 
-
-[click on this link](#my-multi-word-header)
++	[Create a customer record in T24 environment](#create-a-customer) 
++	[Open current and savings accounts](#open-accounts)
++	[Create and authorize an account transaction through FT (Funds Transfer) application](#account-transaction-through-funds-transfer) 
++	[Accustom with Teller module](#cash-deposit-through-teller) 
++	[Create External User to provide customer access on TCMB (Temenos Connect Mobile Banking) and TCIB (Temenos Connect Internet Banking) applications](#create-an-external-user) 
 
 
 
-##	Create a customer
+
+
+### Create a customer
 #### Purpose of customer record: 
  Customer record holds all the basic information about a Customer. 
  	Ideally only one Customer record should exist for each Customer.  This can be created whenever a name, address and other such essential information is obtained and is not dependent on the existence of an account. 
@@ -41,7 +41,7 @@ Under **User Menu** click **Customer**, then **Individual Customer**
 Following screen is open and a **Customer Id** (sequential number) is automatically generated (e. g. 190359):
 
  
-### My Multi Word Header
+
 
  
 <img src="https://github.com/cbenea/LearningGit/blob/master/image/4.png" width="550" height="500">
@@ -208,7 +208,7 @@ Transaction is complete:
 
 
 
-## Open accounts ##
+### Open accounts
 
 ### Open a current account ###
 	
@@ -346,7 +346,7 @@ A second user (supervisor) with additional rights has to authorize this transact
 	Result:
  
  
-4	Account transaction through Funds Transfer
+### Account transaction through Funds Transfer
 	
 	Funds Transfer module (FT) is the part of T24 used to effect payments from one account to another either internally or externally and is related to Customer and Account applications.
 	Under User Menu click Payment Services, then Funds Transfer and Account Transfer
@@ -369,7 +369,7 @@ A second user (supervisor) with additional rights has to authorize this transact
 	Transaction is complete:
  
  
-## Cash deposit through Teller ##
+### Cash deposit through Teller 
 
  
 	Under User Menu click Retail Operations, then Account Transactions – Teller – Teller Operations – Teller Cash – Cash deposit Local
@@ -414,7 +414,7 @@ A second user (supervisor) with additional rights has to authorize this transact
 
  	Transaction is complete.
  
-6	Create an External User
+ ### Create an External User
 
 	The user creation process involves the following steps:
 1. Creating Online Banking Arrangement
