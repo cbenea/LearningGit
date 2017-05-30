@@ -11,7 +11,7 @@
 +	[Open current and savings accounts](#open-accounts)
 +	[Create and authorize an account transaction through FT (Funds Transfer) application](#account-transaction-through-funds-transfer) 
 +	[Accustom with Teller module](#cash-deposit-through-teller) 
-+	[Create External User to provide customer access on TCMB (Temenos Connect Mobile Banking) and TCIB (Temenos Connect Internet Banking) applications](#create-an-external-user) 
++	[Create External User] to provide customer access on TCMB (Temenos Connect Mobile Banking) and TCIB (Temenos Connect Internet Banking) applications(#create-an-external-user) 
 
 
 
@@ -204,13 +204,13 @@ Authorize the deal:
 Transaction is complete:
  
 
-<img src="https://github.com/cbenea/LearningGit/blob/master/image/30.png" width="400" height="230">
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/30.png" width="400" height="200">
 
 
 
 ### Open accounts
 
-### Open a current account ###
+# Open a current account 
 	
 	
 
@@ -219,7 +219,7 @@ Under **User Menu** click **Account**, then **Open Current Account**
 
 
 
-<img src="https://github.com/cbenea/LearningGit/blob/master/image/31.png" width="280" height="380"> 
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/31.png" width="300" height="430"> 
 
  	
 An account number is automatically generated:
@@ -296,7 +296,7 @@ An account number is automatically generated:
 
 Complete details and commit:
 
-<img src="https://github.com/cbenea/LearningGit/blob/master/image/44.png" width="400" height="210">
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/44.png" width="650" height="380">
  
 
 Transaction is complete:
@@ -304,82 +304,136 @@ Transaction is complete:
 <img src="https://github.com/cbenea/LearningGit/blob/master/image/45.png" width="350" height="130">
  
 
-# Authorize and search created account #
+## Authorize and search created account ##
 
-A second user (supervisor) with additional rights has to authorize this transaction. Until then, the newly created account can be checked into the unauthorized files list (List Unauth File).
- 
+A second user (supervisor) with additional rights has to authorize this transaction. Until then, the newly created account can be checked into the unauthorized files list (**List Unauth File**).
 
- 
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/46.png" width="390" height="400">
+
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/47.png" width="390" height="400"> 
  
-	And authorize the record:
+
+And authorize the record:
  
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/48.png" width="420" height="420">
 
 
 
 
+Or search the unauthorized account by its number. Go to **Selection Screen** button 
+Insert **account number** and click **Find**.
 
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/49.png" width="420" height="230">
 
-	Or search the unauthorized account by its number. Go to Selection Screen button  
-	Insert account number and click Find.
  
-	And authorize:
- 
+And authorize:
+
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/50.png" width="320" height="130">
 	
  
-	New screen appears. Click Authorise a deal
+New screen appears. Click **Authorise a deal**
  
-	Transaction is complete:
- 
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/51.png" width="420" height="400">	
+	
+	
+Transaction is complete:
 
-	Now search created account:
- 	Under User Menu click Account, then Open Savings Account. 
- 	Under MoreActions scroll down for List Live File, click it and press Go:   
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/52.png" width="320" height="200">
+
+
+Now search created account:
+ 	
+
++ Under **User Menu** click **Account**, then **Open Savings Account**. 
+
++ Under **MoreActions** scroll down for **List Live File**, click it and press **Go**: <img src="https://github.com/cbenea/LearningGit/blob/master/image/53.png" width="40" height="40">  
 		
-		This action will load all accounts database results.
 
- 
- 
- 	Go to Selection Screen button  
- 	Input the account number and click Find:
+This action will load all accounts database results.
 
- 
-	Result:
- 
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/54.png" width="520" height="400">
  
+ 	
+Go to **Selection Screen** button  
+
+Input the account number and click **Find**:
+
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/55.png" width="140" height="70">
+ 
+
+Result:
+
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/56.png" width="480" height="270">
+ 
+
 ### Account transaction through Funds Transfer
 	
-	Funds Transfer module (FT) is the part of T24 used to effect payments from one account to another either internally or externally and is related to Customer and Account applications.
-	Under User Menu click Payment Services, then Funds Transfer and Account Transfer
- 
-	From new screen, choose Transfer between Accounts
- 
- 
- 
+`Funds Transfer module (FT) is the part of T24 used to effect payments from one account to another either internally or externally and is related to Customer and Account applications.`
+
+Under **User Menu** click **Payment Services**, then **Funds Transfer** and **Account Transfer**
+
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/58.png" width="320" height="480">
  
 
-4.1	Authorize transaction
+From new screen, choose **Transfer between Accounts**
+ 
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/59.png" width="650" height="100">
 
-	Log in with a new user with special approver rights:
- 
-	Under User Menu click Payment Services, then Funds Transfer and Authorise/ Delete FT transactions
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/60.png" width="750" height="450">
+
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/61.png" width="400" height="200">
+
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/62.png" width="550" height="130">
  
 
+### Authorize transaction
+
+Log in with a new user with special approver rights:
  
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/63.png" width="350" height="150">
+
+
+Under **User Menu** click **Payment Services**, then **Funds Transfer** and **Authorise/ Delete FT transactions**
  
-	Transaction is complete:
+
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/64.png" width="250" height="500">
+
+
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/65.png" width="250" height="50">
+
+
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/66.png" width="700" height="400">
+
+
+Transaction is complete:
+
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/67.png" width="400" height="70">
+
  
  
 ### Cash deposit through Teller 
 
- 
-	Under User Menu click Retail Operations, then Account Transactions – Teller – Teller Operations – Teller Cash – Cash deposit Local
+
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/68.png" width="450" height="200">
 
  
+Under **User Menu** click **Retail Operations**, then **Account Transactions** – **Teller** – **Teller Operations** – **Teller Cash** – **Cash deposit Local**
+
+
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/69.png" width="300" height="420"> 
  
 
-	Commit the deal  
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/70.png" width="300" height="420">
+
+
+Commit the deal <img src="https://github.com/cbenea/LearningGit/blob/master/image/71.png" width="30" height="20">
  
-	Transaction is complete
+
+Transaction is complete
+
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/72.png" width="400" height="130">
+
+
  
 5.1	Create a Till
 
