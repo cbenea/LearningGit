@@ -11,7 +11,7 @@
 +	[Open current and savings accounts](#open-accounts)
 +	[Create and authorize an account transaction through FT (Funds Transfer) application](#account-transaction-through-funds-transfer) 
 +	[Accustom with Teller module](#cash-deposit-through-teller) 
-+	[Create External User] to provide customer access on TCMB (Temenos Connect Mobile Banking) and TCIB (Temenos Connect Internet Banking) applications(#create-an-external-user) 
++	[Create External User](#create-an-external-user) to provide customer access on TCMB (Temenos Connect Mobile Banking) and TCIB (Temenos Connect Internet Banking) applications 
 
 
 
@@ -435,7 +435,7 @@ Transaction is complete
 
 
  
-5.1	Create a Till
+**Create a Till**
 
 
 <img src="https://github.com/cbenea/LearningGit/blob/master/image/73.png" width="250" height="400">
@@ -466,7 +466,7 @@ Transaction is completed.
 
 
 
-5.1.1	Authorize new till
+**Authorize new till**
 
 Log in with a new user with special approver rights:
  
