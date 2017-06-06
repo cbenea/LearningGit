@@ -437,36 +437,53 @@ Transaction is complete
  
 5.1	Create a Till
 
+
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/73.png" width="250" height="400">
+
+
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/74.png" width="400" height="70">
+
+ 	
+Choose from dropdown list
  
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/75.png" width="400" height="200">
 
-
- 
-
- 	Choose from dropdown list
- 
-
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/76.png" width="400" height="200">
  
  
- 	After completing the necessary inputs, commit the record by selecting the key at the top of the screen.
+After completing the necessary inputs, commit the record by selecting the key at the top of the screen.
+
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/77.png" width="400" height="70">
  
- 	And then:
+
+And then:
+
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/78.png" width="400" height="70">
  
- 	Transaction is completed.
- 
+Transaction is completed.
+
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/79.png" width="350" height="70">
+
+
+
 5.1.1	Authorize new till
 
- 	Log in with a new user with special approver rights:
+Log in with a new user with special approver rights:
  
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/80.png" width="350" height="150">
+
  
- 	Under User Menu click Retail Operations, then Account Transactions – Teller – Head Teller Operations – Till Administration – Authorise / Delete Till Closure
+ Under **User Menu** click **Retail Operations**, then **Account Transactions** – **Teller** – **Head Teller Operations** – **Till Administration** – **Authorise / Delete Till Closure**
+
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/81.png" width="300" height="80">
 
  
-
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/82.png" width="450" height="350">
  
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/83.png" width="400" height="150">
 
- 
-
- 	Transaction is complete.
+Transaction is complete.
+ 	
  
  ### Create an External User
 
@@ -477,92 +494,120 @@ Transaction is complete
 4. Authorising the Channel User
 5. Manage External User
 
-6.1	Create Online Banking Arrangement
 
- 
- 
- 	Click Create Online Banking Arrangement option under the Admin Menu of the T24 Model Bank
- 
+#### Create Online Banking Arrangement ####
 
- 	Under Product Groups select Temenos Connect Retail
-Both the TCIB and TCMB products are arranged under the Product Groups and Products.
- 
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/84.png" width="290" height="150">
  
 
- 	Input Customer ID and click Validate a Deal
+Click **Create Online Banking Arrangement** option under the **Admin Menu** of the T24 Model Bank
+ 
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/85.png" width="290" height="300">
+ 
+Under **Product Groups** select **Temenos Connect Retail**
+
+Both the **TCIB** and **TCMB** products are arranged under the Product Groups and Products.
+ 
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/86.png" width="500" height="180"> 
+
+ 
+Input **Customer ID** and click **Validate a Deal**
+
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/87.png" width="550" height="400"> 
  
 On validating the above page, a newly created Arrangement is displayed with options for further configuration. 
 
+`In this page, most of the fields in the Customer and User Rights sections are pre-defined with basic functionality. For more functionality, user is advised to configure additional TC.Operations fields and select the additional options from the dropdown according to preferences.`
 
+`Under Product Access section, the required products CURRENT.ACCOUNTS, CURRENT.ACCOUNTS.CATEGORY and SAVINGS.ACCOUNT.CATEGORY are selected in order to provide access to these accounts.`
 
+`Note: User is advised to take note of the Arrangement ID, SMS Group and Customer ID to use them during the upcoming configuration`
 
-
-
-
-
-
-
-
-
-
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/88.png" width="600" height="600">
 
 
 
  
 
-Authorize the deal   
+Authorize the deal  <img src="https://github.com/cbenea/LearningGit/blob/master/image/89.png" width="50" height="30">
 
  
 Transaction is complete:
- 
 
-6.2	Create Group Permission 
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/90.png" width="600" height="80">
+
+
+### Create Group Permission ###
 
 The creation of group permission enables the user to add the customer accounts related to the user role (Clerk).
-Under Admin Menu click External User Administration, then Create/ Manage Online Arrangement, then Manage Permissions
 
- 
+Under **Admin Menu** click **External User Administration**, then **Create/ Manage Online Arrangement**, then **Manage Permissions**
+
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/91.png" width="300" height="400"> 
  
-Create new Permission screen is open. Fields Customer must be populated with Customer ID and Group Name with TC Home name must be populated. Click Find
- 
 
-Click the displayed hyperlink
-
+**Create new Permission** screen is open. Fields **Customer** must be populated with Customer ID and **Group Name** with TC Home name must be populated. Click **Find**
  
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/92.png" width="500" height="180"> 
+
+Click the displayed **hyperlink**
+
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/93.png" width="500" height="250">  
 
  
-In the following screen, input Description, select Type as Individual scroll down and choose the required Product 
+In the following screen, input **Description**, select **Type** as Individual scroll down and choose the required Product 
+
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/94.png" width="800" height="400">  
+
  
 Add all required products and commit 
  
-
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/95.png" width="800" height="400"> 
  
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/96.png" width="500" height="100"> 
 
 
-6.3	Create External User
+### Create External User ###
 
-Under Admin Menu click External User Administration, then Create/ Manage Online Banking Access – Create External User
+`An External User who is entered into the system must be created in the EB.EXTERNAL.USER application. Each External User is related to a customer (i.e., the person who enters the system through an External User), an Internet Service Arrangement and Channel Permissions.`
+
+Under **Admin Menu** click **External User Administration**, then **Create/ Manage Online Banking Access – Create External User**
  
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/97.png" width="270" height="450"> 
  
 
- 	The following screen is displayed for you to enter the External User ID (that is RETAIL1) in 
-the External user creation field.
+The following screen is displayed for you to enter the External User ID (that is RETAIL1) in the External user creation field.
+
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/98.png" width="500" height="300"> 
  
 Transaction is complete
- 
+
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/99.png" width="750" height="100"> 
  
-6.3.1	Authorize Channel User
+
+### Authorize Channel User ###
 
 A second user (supervisor) with additional rights has to authorize this transaction.  
- 	Under Admin Menu, click External User Administration, then Authorise Online Banking Access and Authorise Channel User
+ 	
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/100.png" width="300" height="150">	
+	
+	
+Under **Admin Menu**, click **External User Administration**, then **Authorise Online Banking Access** and **Authorise Channel User**
  
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/101.png" width="250" height="400">	
 
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/102.png" width="550" height="450">	
  
 Transaction is complete
- 
+
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/103.png" width="600" height="70">
 
  
- 	Status field in the EB.EXTERNAL.USER of the user role Initiated. Change into Active
+Status field in the EB.EXTERNAL.USER of the user role **Initiated**. Change into **Active**
+
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/104.png" width="550" height="500">
  
 Press commit. There is no need for authorization at this step. External user creation is completed
+
+<img src="https://github.com/cbenea/LearningGit/blob/master/image/105.png" width="400" height="80">
  
