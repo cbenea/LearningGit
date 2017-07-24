@@ -2,7 +2,7 @@
 # Create customer and external user in T24
 ## Quick Start Guide 
 
-![alt text](https://github.com/cbenea/LearningGit/blob/master/image/xyz2.png)
+![alt text](./image/xyz2.png)
 
 
 
