@@ -5,6 +5,7 @@
 ![alt text](./image/xyz2.png)
 
 
+![Alt Text](./image/ice_video_20170706-121840.gif)
 
 #### This is a guide on how to: ####
 +	[Create a customer record in T24 environment](#create-a-customer) 
