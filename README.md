@@ -29,7 +29,8 @@
 
 Insert your **Username** and **Password** for T24 sign in
 
-<img src="https://github.com/cbenea/LearningGit/blob/master/image/2.png" width="300" height="150">
+![alt text](./image/2.png)
+
  
 #### Fill in basic customer details 
 
